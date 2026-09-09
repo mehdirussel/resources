@@ -1,0 +1,386 @@
+nuts3,n3_name,country,code_18,l1,l1_name,l3_name,area_ha
+CH023,Solothurn,Switzerland,111,1,Artificial surfaces,Continuous urban fabric,114.7
+CH023,Solothurn,Switzerland,112,1,Artificial surfaces,Discontinuous urban fabric,10095.6
+CH023,Solothurn,Switzerland,121,1,Artificial surfaces,Industrial or commercial units,1249.6
+CH023,Solothurn,Switzerland,122,1,Artificial surfaces,Road and rail networks,67.2
+CH023,Solothurn,Switzerland,124,1,Artificial surfaces,Airports,39.0
+CH023,Solothurn,Switzerland,131,1,Artificial surfaces,Mineral extraction sites,59.6
+CH023,Solothurn,Switzerland,133,1,Artificial surfaces,Construction sites,34.8
+CH023,Solothurn,Switzerland,142,1,Artificial surfaces,Sport and leisure facilities,187.5
+CH023,Solothurn,Switzerland,211,2,Agricultural areas,Non-irrigated arable land,19902.8
+CH023,Solothurn,Switzerland,222,2,Agricultural areas,Fruit trees and berry plantations,496.9
+CH023,Solothurn,Switzerland,231,2,Agricultural areas,Pastures,7308.1
+CH023,Solothurn,Switzerland,242,2,Agricultural areas,Complex cultivation patterns,2250.8
+CH023,Solothurn,Switzerland,243,2,Agricultural areas,Agriculture with natural vegetation,2758.3
+CH023,Solothurn,Switzerland,311,3,Forest & semi-natural,Broad-leaved forest,9499.7
+CH023,Solothurn,Switzerland,312,3,Forest & semi-natural,Coniferous forest,1326.3
+CH023,Solothurn,Switzerland,313,3,Forest & semi-natural,Mixed forest,22948.6
+CH023,Solothurn,Switzerland,324,3,Forest & semi-natural,Transitional woodland-shrub,77.9
+CH023,Solothurn,Switzerland,411,4,Wetlands,Inland marshes,0.1
+CH023,Solothurn,Switzerland,511,5,Water bodies,Water courses,414.6
+CH025,Jura,Switzerland,112,1,Artificial surfaces,Discontinuous urban fabric,3836.6
+CH025,Jura,Switzerland,121,1,Artificial surfaces,Industrial or commercial units,729.7
+CH025,Jura,Switzerland,122,1,Artificial surfaces,Road and rail networks,65.4
+CH025,Jura,Switzerland,142,1,Artificial surfaces,Sport and leisure facilities,55.1
+CH025,Jura,Switzerland,211,2,Agricultural areas,Non-irrigated arable land,23326.1
+CH025,Jura,Switzerland,231,2,Agricultural areas,Pastures,10073.9
+CH025,Jura,Switzerland,242,2,Agricultural areas,Complex cultivation patterns,2798.9
+CH025,Jura,Switzerland,243,2,Agricultural areas,Agriculture with natural vegetation,6496.0
+CH025,Jura,Switzerland,311,3,Forest & semi-natural,Broad-leaved forest,6599.3
+CH025,Jura,Switzerland,312,3,Forest & semi-natural,Coniferous forest,2765.0
+CH025,Jura,Switzerland,313,3,Forest & semi-natural,Mixed forest,26640.7
+CH025,Jura,Switzerland,324,3,Forest & semi-natural,Transitional woodland-shrub,332.9
+CH025,Jura,Switzerland,411,4,Wetlands,Inland marshes,33.3
+CH025,Jura,Switzerland,412,4,Wetlands,Peat bogs,45.7
+CH025,Jura,Switzerland,512,5,Water bodies,Water bodies,5.2
+CH031,Basel-Stadt,Switzerland,111,1,Artificial surfaces,Continuous urban fabric,381.5
+CH031,Basel-Stadt,Switzerland,112,1,Artificial surfaces,Discontinuous urban fabric,1784.8
+CH031,Basel-Stadt,Switzerland,121,1,Artificial surfaces,Industrial or commercial units,181.6
+CH031,Basel-Stadt,Switzerland,122,1,Artificial surfaces,Road and rail networks,168.5
+CH031,Basel-Stadt,Switzerland,123,1,Artificial surfaces,Port areas,53.2
+CH031,Basel-Stadt,Switzerland,141,1,Artificial surfaces,Green urban areas,45.7
+CH031,Basel-Stadt,Switzerland,142,1,Artificial surfaces,Sport and leisure facilities,122.4
+CH031,Basel-Stadt,Switzerland,211,2,Agricultural areas,Non-irrigated arable land,345.8
+CH031,Basel-Stadt,Switzerland,222,2,Agricultural areas,Fruit trees and berry plantations,1.1
+CH031,Basel-Stadt,Switzerland,231,2,Agricultural areas,Pastures,0.8
+CH031,Basel-Stadt,Switzerland,242,2,Agricultural areas,Complex cultivation patterns,32.9
+CH031,Basel-Stadt,Switzerland,243,2,Agricultural areas,Agriculture with natural vegetation,8.6
+CH031,Basel-Stadt,Switzerland,311,3,Forest & semi-natural,Broad-leaved forest,448.3
+CH031,Basel-Stadt,Switzerland,511,5,Water bodies,Water courses,117.1
+CH032,Basel-Landschaft,Switzerland,112,1,Artificial surfaces,Discontinuous urban fabric,7673.7
+CH032,Basel-Landschaft,Switzerland,121,1,Artificial surfaces,Industrial or commercial units,1022.5
+CH032,Basel-Landschaft,Switzerland,122,1,Artificial surfaces,Road and rail networks,165.0
+CH032,Basel-Landschaft,Switzerland,123,1,Artificial surfaces,Port areas,89.8
+CH032,Basel-Landschaft,Switzerland,142,1,Artificial surfaces,Sport and leisure facilities,168.1
+CH032,Basel-Landschaft,Switzerland,211,2,Agricultural areas,Non-irrigated arable land,12174.8
+CH032,Basel-Landschaft,Switzerland,221,2,Agricultural areas,Vineyards,29
+CH032,Basel-Landschaft,Switzerland,222,2,Agricultural areas,Fruit trees and berry plantations,356.8
+CH032,Basel-Landschaft,Switzerland,231,2,Agricultural areas,Pastures,3763.0
+CH032,Basel-Landschaft,Switzerland,242,2,Agricultural areas,Complex cultivation patterns,3044.5
+CH032,Basel-Landschaft,Switzerland,243,2,Agricultural areas,Agriculture with natural vegetation,1962.8
+CH032,Basel-Landschaft,Switzerland,311,3,Forest & semi-natural,Broad-leaved forest,5252.1
+CH032,Basel-Landschaft,Switzerland,312,3,Forest & semi-natural,Coniferous forest,358.3
+CH032,Basel-Landschaft,Switzerland,313,3,Forest & semi-natural,Mixed forest,15456.8
+CH032,Basel-Landschaft,Switzerland,324,3,Forest & semi-natural,Transitional woodland-shrub,97.0
+CH032,Basel-Landschaft,Switzerland,511,5,Water bodies,Water courses,116.8
+CH033,Aargau,Switzerland,111,1,Artificial surfaces,Continuous urban fabric,65.7
+CH033,Aargau,Switzerland,112,1,Artificial surfaces,Discontinuous urban fabric,21592.4
+CH033,Aargau,Switzerland,121,1,Artificial surfaces,Industrial or commercial units,2636.8
+CH033,Aargau,Switzerland,122,1,Artificial surfaces,Road and rail networks,107.8
+CH033,Aargau,Switzerland,124,1,Artificial surfaces,Airports,25.3
+CH033,Aargau,Switzerland,131,1,Artificial surfaces,Mineral extraction sites,183.7
+CH033,Aargau,Switzerland,142,1,Artificial surfaces,Sport and leisure facilities,215.4
+CH033,Aargau,Switzerland,211,2,Agricultural areas,Non-irrigated arable land,53861.2
+CH033,Aargau,Switzerland,221,2,Agricultural areas,Vineyards,196.6
+CH033,Aargau,Switzerland,222,2,Agricultural areas,Fruit trees and berry plantations,37.0
+CH033,Aargau,Switzerland,231,2,Agricultural areas,Pastures,626.8
+CH033,Aargau,Switzerland,242,2,Agricultural areas,Complex cultivation patterns,6215.6
+CH033,Aargau,Switzerland,243,2,Agricultural areas,Agriculture with natural vegetation,1818.7
+CH033,Aargau,Switzerland,311,3,Forest & semi-natural,Broad-leaved forest,5584.1
+CH033,Aargau,Switzerland,312,3,Forest & semi-natural,Coniferous forest,4164.1
+CH033,Aargau,Switzerland,313,3,Forest & semi-natural,Mixed forest,39802.1
+CH033,Aargau,Switzerland,324,3,Forest & semi-natural,Transitional woodland-shrub,819.1
+CH033,Aargau,Switzerland,411,4,Wetlands,Inland marshes,104.6
+CH033,Aargau,Switzerland,511,5,Water bodies,Water courses,1143.1
+CH033,Aargau,Switzerland,512,5,Water bodies,Water bodies,1058.4
+DE121,Baden-Baden,Germany,111,1,Artificial surfaces,Continuous urban fabric,69.2
+DE121,Baden-Baden,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,1377.5
+DE121,Baden-Baden,Germany,121,1,Artificial surfaces,Industrial or commercial units,323.3
+DE121,Baden-Baden,Germany,141,1,Artificial surfaces,Green urban areas,31.1
+DE121,Baden-Baden,Germany,142,1,Artificial surfaces,Sport and leisure facilities,77.3
+DE121,Baden-Baden,Germany,211,2,Agricultural areas,Non-irrigated arable land,679.4
+DE121,Baden-Baden,Germany,221,2,Agricultural areas,Vineyards,382.9
+DE121,Baden-Baden,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,860.2
+DE121,Baden-Baden,Germany,231,2,Agricultural areas,Pastures,888.6
+DE121,Baden-Baden,Germany,311,3,Forest & semi-natural,Broad-leaved forest,3450.8
+DE121,Baden-Baden,Germany,312,3,Forest & semi-natural,Coniferous forest,2393.2
+DE121,Baden-Baden,Germany,313,3,Forest & semi-natural,Mixed forest,3006.3
+DE121,Baden-Baden,Germany,321,3,Forest & semi-natural,Natural grasslands,25.2
+DE121,Baden-Baden,Germany,322,3,Forest & semi-natural,Moors and heathland,74.0
+DE121,Baden-Baden,Germany,324,3,Forest & semi-natural,Transitional woodland-shrub,257.7
+DE121,Baden-Baden,Germany,512,5,Water bodies,Water bodies,109.2
+DE122,Karlsruhe-Stadt,Germany,111,1,Artificial surfaces,Continuous urban fabric,514.8
+DE122,Karlsruhe-Stadt,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,3739.0
+DE122,Karlsruhe-Stadt,Germany,121,1,Artificial surfaces,Industrial or commercial units,2173.6
+DE122,Karlsruhe-Stadt,Germany,122,1,Artificial surfaces,Road and rail networks,85.0
+DE122,Karlsruhe-Stadt,Germany,123,1,Artificial surfaces,Port areas,158.0
+DE122,Karlsruhe-Stadt,Germany,141,1,Artificial surfaces,Green urban areas,229.9
+DE122,Karlsruhe-Stadt,Germany,142,1,Artificial surfaces,Sport and leisure facilities,644.5
+DE122,Karlsruhe-Stadt,Germany,211,2,Agricultural areas,Non-irrigated arable land,2620.2
+DE122,Karlsruhe-Stadt,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,448.8
+DE122,Karlsruhe-Stadt,Germany,231,2,Agricultural areas,Pastures,569.5
+DE122,Karlsruhe-Stadt,Germany,242,2,Agricultural areas,Complex cultivation patterns,92.1
+DE122,Karlsruhe-Stadt,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,490.6
+DE122,Karlsruhe-Stadt,Germany,311,3,Forest & semi-natural,Broad-leaved forest,3516.2
+DE122,Karlsruhe-Stadt,Germany,312,3,Forest & semi-natural,Coniferous forest,694.7
+DE122,Karlsruhe-Stadt,Germany,313,3,Forest & semi-natural,Mixed forest,870.2
+DE122,Karlsruhe-Stadt,Germany,322,3,Forest & semi-natural,Moors and heathland,78.5
+DE122,Karlsruhe-Stadt,Germany,511,5,Water bodies,Water courses,159.4
+DE122,Karlsruhe-Stadt,Germany,512,5,Water bodies,Water bodies,251.9
+DE123,Karlsruhe,Germany,111,1,Artificial surfaces,Continuous urban fabric,505.0
+DE123,Karlsruhe,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,11285.6
+DE123,Karlsruhe,Germany,121,1,Artificial surfaces,Industrial or commercial units,3002.0
+DE123,Karlsruhe,Germany,131,1,Artificial surfaces,Mineral extraction sites,123.3
+DE123,Karlsruhe,Germany,132,1,Artificial surfaces,Dump sites,44.4
+DE123,Karlsruhe,Germany,142,1,Artificial surfaces,Sport and leisure facilities,467.0
+DE123,Karlsruhe,Germany,211,2,Agricultural areas,Non-irrigated arable land,37933.2
+DE123,Karlsruhe,Germany,221,2,Agricultural areas,Vineyards,1124.4
+DE123,Karlsruhe,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,3934.5
+DE123,Karlsruhe,Germany,231,2,Agricultural areas,Pastures,8042.2
+DE123,Karlsruhe,Germany,242,2,Agricultural areas,Complex cultivation patterns,564.9
+DE123,Karlsruhe,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,394.5
+DE123,Karlsruhe,Germany,311,3,Forest & semi-natural,Broad-leaved forest,25015.6
+DE123,Karlsruhe,Germany,312,3,Forest & semi-natural,Coniferous forest,4451.3
+DE123,Karlsruhe,Germany,313,3,Forest & semi-natural,Mixed forest,8934.2
+DE123,Karlsruhe,Germany,321,3,Forest & semi-natural,Natural grasslands,95.0
+DE123,Karlsruhe,Germany,324,3,Forest & semi-natural,Transitional woodland-shrub,209.7
+DE123,Karlsruhe,Germany,411,4,Wetlands,Inland marshes,167.2
+DE123,Karlsruhe,Germany,511,5,Water bodies,Water courses,405.2
+DE123,Karlsruhe,Germany,512,5,Water bodies,Water bodies,1631.0
+DE124,Rastatt,Germany,111,1,Artificial surfaces,Continuous urban fabric,266.6
+DE124,Rastatt,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,5826.6
+DE124,Rastatt,Germany,121,1,Artificial surfaces,Industrial or commercial units,1800.3
+DE124,Rastatt,Germany,124,1,Artificial surfaces,Airports,265.8
+DE124,Rastatt,Germany,131,1,Artificial surfaces,Mineral extraction sites,34.2
+DE124,Rastatt,Germany,133,1,Artificial surfaces,Construction sites,25.6
+DE124,Rastatt,Germany,142,1,Artificial surfaces,Sport and leisure facilities,326.0
+DE124,Rastatt,Germany,211,2,Agricultural areas,Non-irrigated arable land,12439.5
+DE124,Rastatt,Germany,221,2,Agricultural areas,Vineyards,714.7
+DE124,Rastatt,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,5000.7
+DE124,Rastatt,Germany,231,2,Agricultural areas,Pastures,4421.3
+DE124,Rastatt,Germany,242,2,Agricultural areas,Complex cultivation patterns,673.0
+DE124,Rastatt,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,166.7
+DE124,Rastatt,Germany,311,3,Forest & semi-natural,Broad-leaved forest,12590.2
+DE124,Rastatt,Germany,312,3,Forest & semi-natural,Coniferous forest,21170.1
+DE124,Rastatt,Germany,313,3,Forest & semi-natural,Mixed forest,4422.7
+DE124,Rastatt,Germany,321,3,Forest & semi-natural,Natural grasslands,0.1
+DE124,Rastatt,Germany,324,3,Forest & semi-natural,Transitional woodland-shrub,1931.2
+DE124,Rastatt,Germany,411,4,Wetlands,Inland marshes,28.9
+DE124,Rastatt,Germany,412,4,Wetlands,Peat bogs,13.0
+DE124,Rastatt,Germany,511,5,Water bodies,Water courses,762.2
+DE124,Rastatt,Germany,512,5,Water bodies,Water bodies,904.5
+DE131,Freiburg im Breisgau,Germany,111,1,Artificial surfaces,Continuous urban fabric,302.7
+DE131,Freiburg im Breisgau,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,2474.8
+DE131,Freiburg im Breisgau,Germany,121,1,Artificial surfaces,Industrial or commercial units,1013.9
+DE131,Freiburg im Breisgau,Germany,124,1,Artificial surfaces,Airports,56.9
+DE131,Freiburg im Breisgau,Germany,132,1,Artificial surfaces,Dump sites,25.6
+DE131,Freiburg im Breisgau,Germany,141,1,Artificial surfaces,Green urban areas,131.3
+DE131,Freiburg im Breisgau,Germany,142,1,Artificial surfaces,Sport and leisure facilities,365.5
+DE131,Freiburg im Breisgau,Germany,211,2,Agricultural areas,Non-irrigated arable land,1850.2
+DE131,Freiburg im Breisgau,Germany,221,2,Agricultural areas,Vineyards,1010.8
+DE131,Freiburg im Breisgau,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,117.9
+DE131,Freiburg im Breisgau,Germany,231,2,Agricultural areas,Pastures,943.0
+DE131,Freiburg im Breisgau,Germany,242,2,Agricultural areas,Complex cultivation patterns,60.7
+DE131,Freiburg im Breisgau,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,39.3
+DE131,Freiburg im Breisgau,Germany,311,3,Forest & semi-natural,Broad-leaved forest,2968.5
+DE131,Freiburg im Breisgau,Germany,312,3,Forest & semi-natural,Coniferous forest,2765.1
+DE131,Freiburg im Breisgau,Germany,313,3,Forest & semi-natural,Mixed forest,1096.9
+DE131,Freiburg im Breisgau,Germany,321,3,Forest & semi-natural,Natural grasslands,10.1
+DE131,Freiburg im Breisgau,Germany,512,5,Water bodies,Water bodies,49.2
+DE132,Breisgau-Hochschwarzwald,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,6624.0
+DE132,Breisgau-Hochschwarzwald,Germany,121,1,Artificial surfaces,Industrial or commercial units,1437.9
+DE132,Breisgau-Hochschwarzwald,Germany,124,1,Artificial surfaces,Airports,173.6
+DE132,Breisgau-Hochschwarzwald,Germany,131,1,Artificial surfaces,Mineral extraction sites,102.6
+DE132,Breisgau-Hochschwarzwald,Germany,132,1,Artificial surfaces,Dump sites,69.9
+DE132,Breisgau-Hochschwarzwald,Germany,141,1,Artificial surfaces,Green urban areas,58.5
+DE132,Breisgau-Hochschwarzwald,Germany,142,1,Artificial surfaces,Sport and leisure facilities,332.9
+DE132,Breisgau-Hochschwarzwald,Germany,211,2,Agricultural areas,Non-irrigated arable land,22586.0
+DE132,Breisgau-Hochschwarzwald,Germany,221,2,Agricultural areas,Vineyards,8111.7
+DE132,Breisgau-Hochschwarzwald,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,1271.6
+DE132,Breisgau-Hochschwarzwald,Germany,231,2,Agricultural areas,Pastures,27795.8
+DE132,Breisgau-Hochschwarzwald,Germany,242,2,Agricultural areas,Complex cultivation patterns,47.2
+DE132,Breisgau-Hochschwarzwald,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,124.4
+DE132,Breisgau-Hochschwarzwald,Germany,311,3,Forest & semi-natural,Broad-leaved forest,11783.0
+DE132,Breisgau-Hochschwarzwald,Germany,312,3,Forest & semi-natural,Coniferous forest,41568.4
+DE132,Breisgau-Hochschwarzwald,Germany,313,3,Forest & semi-natural,Mixed forest,12752.3
+DE132,Breisgau-Hochschwarzwald,Germany,321,3,Forest & semi-natural,Natural grasslands,565.0
+DE132,Breisgau-Hochschwarzwald,Germany,324,3,Forest & semi-natural,Transitional woodland-shrub,1051.8
+DE132,Breisgau-Hochschwarzwald,Germany,511,5,Water bodies,Water courses,393.9
+DE132,Breisgau-Hochschwarzwald,Germany,512,5,Water bodies,Water bodies,893.1
+DE133,Emmendingen,Germany,111,1,Artificial surfaces,Continuous urban fabric,178.5
+DE133,Emmendingen,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,3414.0
+DE133,Emmendingen,Germany,121,1,Artificial surfaces,Industrial or commercial units,1040.4
+DE133,Emmendingen,Germany,142,1,Artificial surfaces,Sport and leisure facilities,123.9
+DE133,Emmendingen,Germany,211,2,Agricultural areas,Non-irrigated arable land,12580.2
+DE133,Emmendingen,Germany,221,2,Agricultural areas,Vineyards,4292.1
+DE133,Emmendingen,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,1751.2
+DE133,Emmendingen,Germany,231,2,Agricultural areas,Pastures,11497.4
+DE133,Emmendingen,Germany,242,2,Agricultural areas,Complex cultivation patterns,489.0
+DE133,Emmendingen,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,94.0
+DE133,Emmendingen,Germany,311,3,Forest & semi-natural,Broad-leaved forest,12055.4
+DE133,Emmendingen,Germany,312,3,Forest & semi-natural,Coniferous forest,15801.7
+DE133,Emmendingen,Germany,313,3,Forest & semi-natural,Mixed forest,4081.3
+DE133,Emmendingen,Germany,321,3,Forest & semi-natural,Natural grasslands,42.1
+DE133,Emmendingen,Germany,324,3,Forest & semi-natural,Transitional woodland-shrub,198.1
+DE133,Emmendingen,Germany,511,5,Water bodies,Water courses,201.1
+DE133,Emmendingen,Germany,512,5,Water bodies,Water bodies,102.7
+DE134,Ortenaukreis,Germany,111,1,Artificial surfaces,Continuous urban fabric,365.3
+DE134,Ortenaukreis,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,12035.5
+DE134,Ortenaukreis,Germany,121,1,Artificial surfaces,Industrial or commercial units,3081.6
+DE134,Ortenaukreis,Germany,122,1,Artificial surfaces,Road and rail networks,62.7
+DE134,Ortenaukreis,Germany,123,1,Artificial surfaces,Port areas,244.7
+DE134,Ortenaukreis,Germany,124,1,Artificial surfaces,Airports,276.6
+DE134,Ortenaukreis,Germany,131,1,Artificial surfaces,Mineral extraction sites,99.0
+DE134,Ortenaukreis,Germany,132,1,Artificial surfaces,Dump sites,92.5
+DE134,Ortenaukreis,Germany,142,1,Artificial surfaces,Sport and leisure facilities,434.4
+DE134,Ortenaukreis,Germany,211,2,Agricultural areas,Non-irrigated arable land,33618.7
+DE134,Ortenaukreis,Germany,221,2,Agricultural areas,Vineyards,3659.9
+DE134,Ortenaukreis,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,9924.2
+DE134,Ortenaukreis,Germany,231,2,Agricultural areas,Pastures,25407.6
+DE134,Ortenaukreis,Germany,242,2,Agricultural areas,Complex cultivation patterns,966.4
+DE134,Ortenaukreis,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,1458.7
+DE134,Ortenaukreis,Germany,311,3,Forest & semi-natural,Broad-leaved forest,28100.2
+DE134,Ortenaukreis,Germany,312,3,Forest & semi-natural,Coniferous forest,55599.7
+DE134,Ortenaukreis,Germany,313,3,Forest & semi-natural,Mixed forest,7054.3
+DE134,Ortenaukreis,Germany,321,3,Forest & semi-natural,Natural grasslands,48.9
+DE134,Ortenaukreis,Germany,322,3,Forest & semi-natural,Moors and heathland,41.8
+DE134,Ortenaukreis,Germany,324,3,Forest & semi-natural,Transitional woodland-shrub,1585.7
+DE134,Ortenaukreis,Germany,511,5,Water bodies,Water courses,933.7
+DE134,Ortenaukreis,Germany,512,5,Water bodies,Water bodies,787.3
+DE139,Lörrach,Germany,111,1,Artificial surfaces,Continuous urban fabric,232.1
+DE139,Lörrach,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,4918.2
+DE139,Lörrach,Germany,121,1,Artificial surfaces,Industrial or commercial units,1118.0
+DE139,Lörrach,Germany,122,1,Artificial surfaces,Road and rail networks,126.3
+DE139,Lörrach,Germany,123,1,Artificial surfaces,Port areas,0.0
+DE139,Lörrach,Germany,131,1,Artificial surfaces,Mineral extraction sites,34.6
+DE139,Lörrach,Germany,141,1,Artificial surfaces,Green urban areas,97.5
+DE139,Lörrach,Germany,142,1,Artificial surfaces,Sport and leisure facilities,233.5
+DE139,Lörrach,Germany,211,2,Agricultural areas,Non-irrigated arable land,8689.6
+DE139,Lörrach,Germany,221,2,Agricultural areas,Vineyards,1050.3
+DE139,Lörrach,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,3058.5
+DE139,Lörrach,Germany,231,2,Agricultural areas,Pastures,16971.7
+DE139,Lörrach,Germany,242,2,Agricultural areas,Complex cultivation patterns,569.7
+DE139,Lörrach,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,183.5
+DE139,Lörrach,Germany,311,3,Forest & semi-natural,Broad-leaved forest,21239.1
+DE139,Lörrach,Germany,312,3,Forest & semi-natural,Coniferous forest,8414.2
+DE139,Lörrach,Germany,313,3,Forest & semi-natural,Mixed forest,12553.0
+DE139,Lörrach,Germany,321,3,Forest & semi-natural,Natural grasslands,213.9
+DE139,Lörrach,Germany,324,3,Forest & semi-natural,Transitional woodland-shrub,435.8
+DE139,Lörrach,Germany,511,5,Water bodies,Water courses,470.9
+DE13A,Waldshut,Germany,111,1,Artificial surfaces,Continuous urban fabric,33.0
+DE13A,Waldshut,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,5539.0
+DE13A,Waldshut,Germany,121,1,Artificial surfaces,Industrial or commercial units,881.2
+DE13A,Waldshut,Germany,131,1,Artificial surfaces,Mineral extraction sites,29
+DE13A,Waldshut,Germany,142,1,Artificial surfaces,Sport and leisure facilities,316.7
+DE13A,Waldshut,Germany,211,2,Agricultural areas,Non-irrigated arable land,16345.6
+DE13A,Waldshut,Germany,221,2,Agricultural areas,Vineyards,77.0
+DE13A,Waldshut,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,728.1
+DE13A,Waldshut,Germany,231,2,Agricultural areas,Pastures,30977.5
+DE13A,Waldshut,Germany,242,2,Agricultural areas,Complex cultivation patterns,277.4
+DE13A,Waldshut,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,107.1
+DE13A,Waldshut,Germany,311,3,Forest & semi-natural,Broad-leaved forest,14398.8
+DE13A,Waldshut,Germany,312,3,Forest & semi-natural,Coniferous forest,31219.8
+DE13A,Waldshut,Germany,313,3,Forest & semi-natural,Mixed forest,10743.1
+DE13A,Waldshut,Germany,321,3,Forest & semi-natural,Natural grasslands,100.1
+DE13A,Waldshut,Germany,324,3,Forest & semi-natural,Transitional woodland-shrub,597.4
+DE13A,Waldshut,Germany,511,5,Water bodies,Water courses,709.5
+DEB33,Landau in der Pfalz,Germany,111,1,Artificial surfaces,Continuous urban fabric,143.9
+DEB33,Landau in der Pfalz,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,952.3
+DEB33,Landau in der Pfalz,Germany,121,1,Artificial surfaces,Industrial or commercial units,363.4
+DEB33,Landau in der Pfalz,Germany,142,1,Artificial surfaces,Sport and leisure facilities,39.1
+DEB33,Landau in der Pfalz,Germany,211,2,Agricultural areas,Non-irrigated arable land,1048.1
+DEB33,Landau in der Pfalz,Germany,221,2,Agricultural areas,Vineyards,2553.7
+DEB33,Landau in der Pfalz,Germany,231,2,Agricultural areas,Pastures,491.8
+DEB33,Landau in der Pfalz,Germany,242,2,Agricultural areas,Complex cultivation patterns,94.9
+DEB33,Landau in der Pfalz,Germany,311,3,Forest & semi-natural,Broad-leaved forest,725.6
+DEB33,Landau in der Pfalz,Germany,312,3,Forest & semi-natural,Coniferous forest,467.1
+DEB33,Landau in der Pfalz,Germany,313,3,Forest & semi-natural,Mixed forest,1346.7
+DEB33,Landau in der Pfalz,Germany,324,3,Forest & semi-natural,Transitional woodland-shrub,57.1
+DEB3E,Germersheim,Germany,111,1,Artificial surfaces,Continuous urban fabric,88.0
+DEB3E,Germersheim,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,3737.0
+DEB3E,Germersheim,Germany,121,1,Artificial surfaces,Industrial or commercial units,1453.3
+DEB3E,Germersheim,Germany,122,1,Artificial surfaces,Road and rail networks,56.8
+DEB3E,Germersheim,Germany,131,1,Artificial surfaces,Mineral extraction sites,25.0
+DEB3E,Germersheim,Germany,142,1,Artificial surfaces,Sport and leisure facilities,34.3
+DEB3E,Germersheim,Germany,211,2,Agricultural areas,Non-irrigated arable land,15735.7
+DEB3E,Germersheim,Germany,221,2,Agricultural areas,Vineyards,318.4
+DEB3E,Germersheim,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,58.9
+DEB3E,Germersheim,Germany,231,2,Agricultural areas,Pastures,3453.5
+DEB3E,Germersheim,Germany,242,2,Agricultural areas,Complex cultivation patterns,302.1
+DEB3E,Germersheim,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,6.7
+DEB3E,Germersheim,Germany,311,3,Forest & semi-natural,Broad-leaved forest,9894.7
+DEB3E,Germersheim,Germany,312,3,Forest & semi-natural,Coniferous forest,3228.1
+DEB3E,Germersheim,Germany,313,3,Forest & semi-natural,Mixed forest,6231.9
+DEB3E,Germersheim,Germany,324,3,Forest & semi-natural,Transitional woodland-shrub,200.4
+DEB3E,Germersheim,Germany,511,5,Water bodies,Water courses,654.9
+DEB3E,Germersheim,Germany,512,5,Water bodies,Water bodies,790.5
+DEB3H,Südliche Weinstraße,Germany,111,1,Artificial surfaces,Continuous urban fabric,31.5
+DEB3H,Südliche Weinstraße,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,3742.5
+DEB3H,Südliche Weinstraße,Germany,121,1,Artificial surfaces,Industrial or commercial units,441.5
+DEB3H,Südliche Weinstraße,Germany,131,1,Artificial surfaces,Mineral extraction sites,27.9
+DEB3H,Südliche Weinstraße,Germany,142,1,Artificial surfaces,Sport and leisure facilities,141.1
+DEB3H,Südliche Weinstraße,Germany,211,2,Agricultural areas,Non-irrigated arable land,11982.7
+DEB3H,Südliche Weinstraße,Germany,221,2,Agricultural areas,Vineyards,12304.2
+DEB3H,Südliche Weinstraße,Germany,222,2,Agricultural areas,Fruit trees and berry plantations,60.2
+DEB3H,Südliche Weinstraße,Germany,231,2,Agricultural areas,Pastures,4680.2
+DEB3H,Südliche Weinstraße,Germany,242,2,Agricultural areas,Complex cultivation patterns,631.9
+DEB3H,Südliche Weinstraße,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,140.3
+DEB3H,Südliche Weinstraße,Germany,311,3,Forest & semi-natural,Broad-leaved forest,8173.0
+DEB3H,Südliche Weinstraße,Germany,312,3,Forest & semi-natural,Coniferous forest,10319.5
+DEB3H,Südliche Weinstraße,Germany,313,3,Forest & semi-natural,Mixed forest,13640.0
+DEB3H,Südliche Weinstraße,Germany,321,3,Forest & semi-natural,Natural grasslands,25.1
+DEB3H,Südliche Weinstraße,Germany,324,3,Forest & semi-natural,Transitional woodland-shrub,111.2
+DEB3K,SüdwestPfalz,Germany,112,1,Artificial surfaces,Discontinuous urban fabric,986.0
+DEB3K,SüdwestPfalz,Germany,121,1,Artificial surfaces,Industrial or commercial units,112.0
+DEB3K,SüdwestPfalz,Germany,122,1,Artificial surfaces,Road and rail networks,26.4
+DEB3K,SüdwestPfalz,Germany,142,1,Artificial surfaces,Sport and leisure facilities,39.9
+DEB3K,SüdwestPfalz,Germany,231,2,Agricultural areas,Pastures,2632.0
+DEB3K,SüdwestPfalz,Germany,242,2,Agricultural areas,Complex cultivation patterns,31.8
+DEB3K,SüdwestPfalz,Germany,243,2,Agricultural areas,Agriculture with natural vegetation,44.0
+DEB3K,SüdwestPfalz,Germany,311,3,Forest & semi-natural,Broad-leaved forest,7176.7
+DEB3K,SüdwestPfalz,Germany,312,3,Forest & semi-natural,Coniferous forest,11801.9
+DEB3K,SüdwestPfalz,Germany,313,3,Forest & semi-natural,Mixed forest,9627.2
+DEB3K,SüdwestPfalz,Germany,321,3,Forest & semi-natural,Natural grasslands,106.9
+FR421,Bas-Rhin,France,111,1,Artificial surfaces,Continuous urban fabric,531.0
+FR421,Bas-Rhin,France,112,1,Artificial surfaces,Discontinuous urban fabric,39782.0
+FR421,Bas-Rhin,France,121,1,Artificial surfaces,Industrial or commercial units,8338.5
+FR421,Bas-Rhin,France,122,1,Artificial surfaces,Road and rail networks,776.4
+FR421,Bas-Rhin,France,123,1,Artificial surfaces,Port areas,375.5
+FR421,Bas-Rhin,France,124,1,Artificial surfaces,Airports,582.7
+FR421,Bas-Rhin,France,131,1,Artificial surfaces,Mineral extraction sites,782.1
+FR421,Bas-Rhin,France,132,1,Artificial surfaces,Dump sites,235.2
+FR421,Bas-Rhin,France,133,1,Artificial surfaces,Construction sites,52.2
+FR421,Bas-Rhin,France,141,1,Artificial surfaces,Green urban areas,141.6
+FR421,Bas-Rhin,France,142,1,Artificial surfaces,Sport and leisure facilities,1605.4
+FR421,Bas-Rhin,France,211,2,Agricultural areas,Non-irrigated arable land,153707.4
+FR421,Bas-Rhin,France,221,2,Agricultural areas,Vineyards,7987.8
+FR421,Bas-Rhin,France,222,2,Agricultural areas,Fruit trees and berry plantations,7444.6
+FR421,Bas-Rhin,France,231,2,Agricultural areas,Pastures,34617.9
+FR421,Bas-Rhin,France,242,2,Agricultural areas,Complex cultivation patterns,26750.6
+FR421,Bas-Rhin,France,243,2,Agricultural areas,Agriculture with natural vegetation,6371.9
+FR421,Bas-Rhin,France,311,3,Forest & semi-natural,Broad-leaved forest,80904.4
+FR421,Bas-Rhin,France,312,3,Forest & semi-natural,Coniferous forest,50787.1
+FR421,Bas-Rhin,France,313,3,Forest & semi-natural,Mixed forest,46609.9
+FR421,Bas-Rhin,France,321,3,Forest & semi-natural,Natural grasslands,355.8
+FR421,Bas-Rhin,France,322,3,Forest & semi-natural,Moors and heathland,835.7
+FR421,Bas-Rhin,France,324,3,Forest & semi-natural,Transitional woodland-shrub,3589.2
+FR421,Bas-Rhin,France,411,4,Wetlands,Inland marshes,26.1
+FR421,Bas-Rhin,France,511,5,Water bodies,Water courses,3118.8
+FR421,Bas-Rhin,France,512,5,Water bodies,Water bodies,3048.2
+FR422,Haut-Rhin,France,111,1,Artificial surfaces,Continuous urban fabric,332.0
+FR422,Haut-Rhin,France,112,1,Artificial surfaces,Discontinuous urban fabric,28963.7
+FR422,Haut-Rhin,France,121,1,Artificial surfaces,Industrial or commercial units,6655.7
+FR422,Haut-Rhin,France,122,1,Artificial surfaces,Road and rail networks,530.1
+FR422,Haut-Rhin,France,124,1,Artificial surfaces,Airports,1130.4
+FR422,Haut-Rhin,France,131,1,Artificial surfaces,Mineral extraction sites,919.4
+FR422,Haut-Rhin,France,132,1,Artificial surfaces,Dump sites,279.3
+FR422,Haut-Rhin,France,141,1,Artificial surfaces,Green urban areas,289.7
+FR422,Haut-Rhin,France,142,1,Artificial surfaces,Sport and leisure facilities,968.2
+FR422,Haut-Rhin,France,211,2,Agricultural areas,Non-irrigated arable land,102091.0
+FR422,Haut-Rhin,France,221,2,Agricultural areas,Vineyards,9848.5
+FR422,Haut-Rhin,France,222,2,Agricultural areas,Fruit trees and berry plantations,472.1
+FR422,Haut-Rhin,France,231,2,Agricultural areas,Pastures,12411.4
+FR422,Haut-Rhin,France,242,2,Agricultural areas,Complex cultivation patterns,26685.4
+FR422,Haut-Rhin,France,243,2,Agricultural areas,Agriculture with natural vegetation,3309.3
+FR422,Haut-Rhin,France,311,3,Forest & semi-natural,Broad-leaved forest,78193.5
+FR422,Haut-Rhin,France,312,3,Forest & semi-natural,Coniferous forest,29278.8
+FR422,Haut-Rhin,France,313,3,Forest & semi-natural,Mixed forest,40753.6
+FR422,Haut-Rhin,France,321,3,Forest & semi-natural,Natural grasslands,3625.8
+FR422,Haut-Rhin,France,322,3,Forest & semi-natural,Moors and heathland,2558.4
+FR422,Haut-Rhin,France,324,3,Forest & semi-natural,Transitional woodland-shrub,469.2
+FR422,Haut-Rhin,France,332,3,Forest & semi-natural,Bare rocks,34.5
+FR422,Haut-Rhin,France,333,3,Forest & semi-natural,Sparsely vegetated areas,118.0
+FR422,Haut-Rhin,France,411,4,Wetlands,Inland marshes,289.1
+FR422,Haut-Rhin,France,412,4,Wetlands,Peat bogs,0.5
+FR422,Haut-Rhin,France,511,5,Water bodies,Water courses,1705.2
+FR422,Haut-Rhin,France,512,5,Water bodies,Water bodies,986.2
